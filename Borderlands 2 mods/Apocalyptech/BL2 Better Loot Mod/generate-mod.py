@@ -304,11 +304,11 @@ class ConfigExcellent(ConfigBase):
 
     # Custom weapon drop scaling
     weapon_base_common = 8
-    weapon_base_uncommon = 85
-    weapon_base_rare = 65
-    weapon_base_veryrare = 65
-    weapon_base_alien = 15
-    weapon_base_legendary = 3
+    weapon_base_uncommon = 8
+    weapon_base_rare = 6
+    weapon_base_veryrare = 6
+    weapon_base_alien = 1
+    weapon_base_legendary = 300
     weapon_base_iris_cobra = 1
 
     # Custom COM drop scaling (identical to weapons, apart from an additional Alignment COM pool)
