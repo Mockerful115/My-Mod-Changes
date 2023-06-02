@@ -51,7 +51,7 @@ except ModuleNotFoundError:
 ### Output variables
 ###
 
-mod_name = 'BL2 Better Loot Mod'
+mod_name = 'BL2 Better Loot Mod Kane'
 mod_version = '1.3.5'
 output_filename = '{}.blcm'.format(mod_name)
 
